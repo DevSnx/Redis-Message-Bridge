@@ -1,0 +1,15 @@
+##################################
+#                                #
+#      Redis-Message-Bridge      #
+#         v1.0 by DevSnx         #
+#                                #
+##################################
+
+# Redis Server Connection
+redis:
+  host: "localhost"
+  port: 6379
+  username: ""
+  password: ""
+
+channel: "channel1"

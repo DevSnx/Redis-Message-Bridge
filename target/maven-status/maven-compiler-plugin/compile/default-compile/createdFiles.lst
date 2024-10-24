@@ -1,0 +1,5 @@
+de\devsnx\redisMessageBridge\listener\PlayerChatListener.class
+de\devsnx\redisMessageBridge\manager\ChatManager.class
+de\devsnx\redisMessageBridge\manager\RedisManager.class
+de\devsnx\redisMessageBridge\manager\ChatManager$1.class
+de\devsnx\redisMessageBridge\RedisMessageBridge.class

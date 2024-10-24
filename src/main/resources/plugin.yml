@@ -1,0 +1,7 @@
+name: Redis-Message-Bridge
+version: '1.0-SNAPSHOT'
+
+folia-supported: true
+api-version: '1.21'
+
+main: de.devsnx.redisMessageBridge.RedisMessageBridge
